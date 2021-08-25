@@ -1,0 +1,2 @@
+# Neural-Networks-on-Forest-fire-Dataset-
+PREDICTING THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS.
